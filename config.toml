@@ -1,4 +1,4 @@
-baseurl = "http://example.netlify.io/"
+baseurl = "https://ngaydos.rbind.io/"
 relativeurls = false
 languageCode = "en-us"
 title = "Natasha Gaydos"
