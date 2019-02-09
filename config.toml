@@ -1,7 +1,7 @@
 baseurl = "http://example.netlify.io/"
 relativeurls = false
 languageCode = "en-us"
-title = "Your Name"
+title = "Natasha Gaydos"
 theme = "hugo-prof"
 googleAnalytics = ""
 disqusShortname = ""
@@ -13,19 +13,19 @@ blogdir = "blog"
 [permalinks]
     post = "blog/:year/:month/:day/:slug/"
 
-[[menu.main]]
+#[[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
-[[menu.main]]           # comment out this row, plus the name, url, and weight to omit  
+#[[menu.main]]           # comment out this row, plus the name, url, and weight to omit  
    name = "Research"    
    url = "/research/"
    weight = 2
-[[menu.main]]           # comment out this row, plus the name, url, and weight to omit 
+#[[menu.main]]           # comment out this row, plus the name, url, and weight to omit 
    name = "Teaching"
    url = "/teaching/"
    weight = 3
-[[menu.main]]           # comment out this row, plus the name, url, and weight to omit 
+#[[menu.main]]           # comment out this row, plus the name, url, and weight to omit 
     name = "Blog"
     url = "/blog/"
     weight = 4
@@ -35,16 +35,16 @@ blogdir = "blog"
     weight = 5
 
 [params]
-    description = "Your name and a few keywords on your academic interests" 
-    subtitle = "A few keywords on your academic interests"
-    home_text = "A paragraph or so of professional bio.  Write it in the config.toml file---it's called home_text---as one long string."
+    description = "Natasha Gaydos" 
+    subtitle = "American Politics, Inequalities, Race & Ethnic Politics, Public Policy, Political Discussion"
+    home_text = "I am a Ph.D. student of political science at the University of Iowa. Previously I studied at the University of Illinois, where I received my B.A. in Political Science in 2014. My research and teaching interests include: Inequalities, Intersectionality, Race and Ethnic Politics, American Politics, Political Sociology, Public Policy, Political Discussion, Public Opinion, Political Methodology and Research Methods."
 
-    author = "Your Name"
+    author = "Natasha Gaydos"
     dateFormat = "2006/01/02"
-    email = "your_email@uppermidwest.edu"
-    github_username = "your_github_username"
-    twitter_username = "your_twitter_username"  # leave empty quotes to omit
-    gscholar_code = "your_gscholar_code"        # leave empty quotes to omit    
+    email = "natasha-gaydos@uiowa.edu"
+    github_username = "natashagaydos"
+    twitter_username = "@ngaydosuiowaed1"  # leave empty quotes to omit
+    gscholar_code = ""        # leave empty quotes to omit    
 
     page_color = "white"
     text_color = "black"
