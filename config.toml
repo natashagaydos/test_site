@@ -31,7 +31,7 @@ blogdir = "blog"
    # weight = 4
 [[menu.main]]
     name = "CV"
-    url = "/cv.pdf"
+    url = "/Ngaydos_CV.pdf"
     weight = 5
 
 [params]
