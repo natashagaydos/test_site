@@ -13,22 +13,22 @@ blogdir = "blog"
 [permalinks]
     post = "blog/:year/:month/:day/:slug/"
 
-#[[menu.main]]
+[[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
 #[[menu.main]]           # comment out this row, plus the name, url, and weight to omit  
-   name = "Research"    
-   url = "/research/"
-   weight = 2
+   #name = "Research"    
+   #url = "/research/"
+   #weight = 2
 #[[menu.main]]           # comment out this row, plus the name, url, and weight to omit 
-   name = "Teaching"
-   url = "/teaching/"
-   weight = 3
+  # name = "Teaching"
+  # url = "/teaching/"
+  # weight = 3
 #[[menu.main]]           # comment out this row, plus the name, url, and weight to omit 
-    name = "Blog"
-    url = "/blog/"
-    weight = 4
+   # name = "Blog"
+   # url = "/blog/"
+   # weight = 4
 [[menu.main]]
     name = "CV"
     url = "/cv.pdf"
@@ -36,7 +36,7 @@ blogdir = "blog"
 
 [params]
     description = "Natasha Gaydos" 
-    subtitle = "American Politics, Inequalities, Race & Ethnic Politics, Public Policy, Political Discussion"
+    subtitle = "Inequalities, Race and Ethnic Politics, Political Sociology, Public Opinion, Research Methods"
     home_text = "I am a Ph.D. student of political science at the University of Iowa. Previously I studied at the University of Illinois, where I received my B.A. in Political Science in 2014. My research and teaching interests include: Inequalities, Intersectionality, Race and Ethnic Politics, American Politics, Political Sociology, Public Policy, Political Discussion, Public Opinion, Political Methodology and Research Methods."
 
     author = "Natasha Gaydos"
