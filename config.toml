@@ -44,7 +44,7 @@ blogdir = "blog"
     email = "natasha-gaydos@uiowa.edu"
     github_username = "natashagaydos"
     twitter_username = "@ngaydosuiowaed1"  # leave empty quotes to omit
-    gscholar_code = ""        # leave empty quotes to omit    
+    #gscholar_code = ""        # leave empty quotes to omit    
 
     page_color = "white"
     text_color = "black"
