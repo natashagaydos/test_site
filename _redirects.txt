@@ -1,0 +1,2 @@
+http://ngaydos.rbind.io/*    https://ngaydos.rbind.io/:splat  301!
+https://ngaydos.netlify.com/*  https://ngaydos.rbind.io/:splat  301!
